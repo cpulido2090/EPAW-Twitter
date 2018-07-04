@@ -1,5 +1,5 @@
 # EPAW-Twitter
-Enginyeria de Programari per a Aplicacions Web
+Software Engineering for Web Applications
 
 Is a course of the Universitat Pompeu Fabra, part of the Computer Science degree. Consists in create a social media like Twitter.
 
